@@ -3,3 +3,4 @@
 参考にしたyoutubeサイト『https://youtu.be/3ZRGVJStUFs?si=Z2em4rwxs0q9M-zc　』
 これからやらなければならないこと
 1.ボタンのずれを直す
+ 
